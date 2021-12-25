@@ -5,6 +5,6 @@ public class DemoController {
 
     @RequestMapping
     public String name() {
-        return "Meku";
+        return "Meku Anteneh";
     }
 }
